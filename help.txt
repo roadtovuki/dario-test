@@ -1,2 +1,2 @@
 This is help
-s|This is second helo
+This is second helo
